@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Ciclismo",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Bicicletas de niños e infantiles"
+      },
+      {
+        "id": 2,
+        "name": "Bicicletas de montaña"
+      },
+      {
+        "id": 3,
+        "name": "Bicicletas eléctricas"
+      },
+      {
+        "id": 4,
+        "name": "Bicicletas de carretera"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pádel",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Palas de pádel"
+      },
+      {
+        "id": 2,
+        "name": "Zapatillas"
+      },
+      {
+        "id": 3,
+        "name": "Bolsas"
+      },
+      {
+        "id": 4,
+        "name": "Pelotas"
+      }
+    ]
+  }
+]
